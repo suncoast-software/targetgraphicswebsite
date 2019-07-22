@@ -1,0 +1,17 @@
+.header{
+    background-image: url("");
+    background-repeat: none;
+    background-size: 1920px;
+    height: 400px;
+}
+
+body{
+    background-color: rgb(105, 105, 105);
+}
+
+.horizontal-center{
+    text-align: center;
+}
+
+
+ 
